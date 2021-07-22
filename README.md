@@ -1,6 +1,6 @@
 # Sales-Analysis
 
-This sales analysis has been automated by pulling data from a csv file into a program that performs a quick analysis of the sales and visitors data for a farm stand and a mobile market.
+This sales analysis has been automated by pulling data from a csv file into a program that performs a quick analysis of the sales and visitors data for a farm stand and a mobile market using the pandas module.
 
 If the user inputs "Farm Market", it will filter and provide an analysis for the farm market in specific.
 

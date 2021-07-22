@@ -18,7 +18,7 @@ Second, it will ask the user if they would like to view the data for farm stand 
 
 Third, it will ask the user if they would like to view the average of all of the sales. If the user inputs "yes", the program will display the average in the terminal.
 
-![image](https://user-images.githubusercontent.com/86090971/126695752-3d14f0ce-3679-4d5c-90a1-0f4ba1fe5ed9.png)
+![image](https://user-images.githubusercontent.com/86090971/126696879-420ab2ff-e946-4436-ad08-3932a3799fac.png)
 
 If the user inputs "Mobile Market" instead of "Farm Market", the program will perform a similar to the process described above, and these are the results.
 

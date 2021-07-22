@@ -20,7 +20,7 @@ Third, it will ask the user if they would like to view the average of all of the
 
 ![image](https://user-images.githubusercontent.com/86090971/126696879-420ab2ff-e946-4436-ad08-3932a3799fac.png)
 
-If the user inputs "Mobile Market" instead of "Farm Market", the program will perform a similar to the process described above, and these are the results.
+If the user inputs "Mobile Market" instead of "Farm Market", the program will perform a similar process to the process described above, and these are the results.
 
 ![image](https://user-images.githubusercontent.com/86090971/126696228-971b12f4-b076-4b54-953b-679665e51571.png)
 
